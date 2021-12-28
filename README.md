@@ -1,1 +1,1 @@
-# javohir-tr-obot
+# google eng uzb bot
